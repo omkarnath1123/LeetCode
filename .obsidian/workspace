@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "af06f8725ce651b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "10af05d0ef0be062",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1981. Minimize the Difference Between Target and Chosen Elements.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbaeb022a56b41cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "93d347bc8e1d6d59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc96cee2123e6ff1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "75ec0511bc074e12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313
+  },
+  "right": {
+    "id": "0125c726741a7eeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ce14531fc86dee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1832791ad429863",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1981. Minimize the Difference Between Target and Chosen Elements.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "10af05d0ef0be062",
+  "lastOpenFiles": [
+    "1981. Minimize the Difference Between Target and Chosen Elements.md",
+    "Space Complexity.md",
+    "Intution.md",
+    "Medium.md",
+    "README.md",
+    "Time Complexity.md"
+  ]
+}
