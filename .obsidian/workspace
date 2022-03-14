@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1981. Minimize the Difference Between Target and Chosen Elements.md",
+            "file": "Problems/1981. Minimize the Difference Between Target and Chosen Elements.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1981. Minimize the Difference Between Target and Chosen Elements.md",
+                "file": "Problems/1981. Minimize the Difference Between Target and Chosen Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,12 @@
   },
   "active": "10af05d0ef0be062",
   "lastOpenFiles": [
-    "1981. Minimize the Difference Between Target and Chosen Elements.md",
-    "Space Complexity.md",
-    "Intution.md",
-    "Medium.md",
+    "Problems/1981. Minimize the Difference Between Target and Chosen Elements.md",
+    "Utils/Normal.md",
+    "Utils/Space Complexity.md",
+    "Utils/Intution.md",
+    "Utils/Medium.md",
     "README.md",
-    "Time Complexity.md"
+    "Utils/Time Complexity.md"
   ]
 }
