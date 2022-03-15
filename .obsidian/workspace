@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/678. Valid Parenthesis String.md",
+            "file": "Problems/1594. Maximum Non Negative Product in a Matrix.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/678. Valid Parenthesis String.md",
+                "file": "Problems/1594. Maximum Non Negative Product in a Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ece217c15dc98025",
   "lastOpenFiles": [
-    "Problems/678. Valid Parenthesis String.md",
+    "Problems/1594. Maximum Non Negative Product in a Matrix.md",
     "Problems/2116. Check if a Parentheses String Can Be Valid.md",
+    "Problems/397. Integer Replacement.md",
+    "Problems/939. Minimum Area Rectangle.md",
+    "Utils/Math.md",
+    "Utils/Hash Table.md",
+    "Problems/1654. Minimum Jumps to Reach Home.md",
+    "Utils/Breath First Search.md",
     "Problems/1981. Minimize the Difference Between Target and Chosen Elements.md",
-    "Utils/Dynamic Programming.md",
-    "Utils/Greedy.md",
-    "Utils/Stack.md",
-    "Utils/Normal.md",
-    "Utils/Space Complexity.md",
-    "Utils/Intution.md",
-    "Utils/Medium.md"
+    "Problems/678. Valid Parenthesis String.md"
   ]
 }
