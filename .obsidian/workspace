@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/10. Regular Expression Matching.md",
+            "file": "Problems/132. Palindrome Partitioning II.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/10. Regular Expression Matching.md",
+                "file": "Problems/132. Palindrome Partitioning II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ece217c15dc98025",
   "lastOpenFiles": [
+    "Problems/132. Palindrome Partitioning II.md",
+    "Problems/32. Longest Valid Parentheses.md",
+    "Problems/188. Best Time to Buy and Sell Stock IV.md",
+    "Problems/1553. Minimum Number of Days to Eat N Oranges.md",
+    "Utils/Breath First Search.md",
+    "Problems/397. Integer Replacement.md",
     "Problems/10. Regular Expression Matching.md",
     "Problems/44. Wildcard Matching.md",
     "Problems/2116. Check if a Parentheses String Can Be Valid.md",
-    "Problems/1937. Maximum Number of Points with Cost.md",
-    "Problems/1191. K-Concatenation Maximum Sum.md",
-    "Problems/1039. Minimum Score Triangulation of Polygon.md",
-    "Problems/1594. Maximum Non Negative Product in a Matrix.md",
-    "Problems/1654. Minimum Jumps to Reach Home.md",
-    "Problems/1981. Minimize the Difference Between Target and Chosen Elements.md",
-    "Problems/96. Unique Binary Search Trees.md"
+    "Problems/1937. Maximum Number of Points with Cost.md"
   ]
 }
