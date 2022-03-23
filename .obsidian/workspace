@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/2127. Maximum Employees to Be Invited to a Meeting.md",
+            "file": "Problems/282. Expression Add Operators.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/2127. Maximum Employees to Be Invited to a Meeting.md",
+                "file": "Problems/282. Expression Add Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ece217c15dc98025",
   "lastOpenFiles": [
+    "Problems/282. Expression Add Operators.md",
+    "Problems/2071. Maximum Number of Tasks You Can Assign.md",
+    "Problems/402. Remove K Digits.md",
+    "Problems/87. Scramble String.md",
+    "Problems/85. Maximal Rectangle.md",
     "Problems/2127. Maximum Employees to Be Invited to a Meeting.md",
     "Problems/1201. Ugly Number III.md",
     "Problems/882. Reachable Nodes In Subdivided Graph.md",
     "Utils/Dijkstra.md",
-    "Problems/135. Candy.md",
-    "Problems/878. Nth Magical Number.md",
-    "Problems/123. Best Time to Buy and Sell Stock III.md",
-    "Problems/1478. Allocate Mailboxes.md",
-    "Problems/1234. Replace the Substring for Balanced String.md",
-    "Utils/Sliding Window.md"
+    "Problems/135. Candy.md"
   ]
 }
