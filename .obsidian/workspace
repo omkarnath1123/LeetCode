@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/261. Graph Valid Tree.md",
+            "file": "Problems/1216. Valid Palindrome III.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/261. Graph Valid Tree.md",
+                "file": "Problems/1216. Valid Palindrome III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ece217c15dc98025",
   "lastOpenFiles": [
+    "Problems/1216. Valid Palindrome III.md",
+    "Problems/1183. Maximum Number of Ones.md",
+    "Problems/253. Meeting Rooms II.md",
+    "Problems/684. Redundant Connection.md",
+    "Problems/1061. Lexicographically Smallest Equivalent String.md",
+    "Assets/Maximum_Number_of_Ones.png",
+    "Problems/10. Regular Expression Matching.md",
     "Problems/261. Graph Valid Tree.md",
     "Problems/1258. Synonymous Sentences.md",
-    "Problems/1101. The Earliest Moment When Everyone Become Friends.md",
-    "Problems/737. Sentence Similarity II.md",
-    "Problems/10. Regular Expression Matching.md",
-    "Problems/1458. Max Dot Product of Two Subsequences.md",
-    "Problems/158. Read N Characters Given read4 II - Call Multiple Times.md",
-    "Utils/String.md",
-    "Problems/161. One Edit Distance.md",
-    "Problems/1259. Handshakes That Don't Cross.md"
+    "Problems/1101. The Earliest Moment When Everyone Become Friends.md"
   ]
 }
