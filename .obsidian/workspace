@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/1554. Strings Differ by One Character.md",
+            "file": "Problems/1231. Divide Chocolate.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/1554. Strings Differ by One Character.md",
+                "file": "Problems/1231. Divide Chocolate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ece217c15dc98025",
   "lastOpenFiles": [
-    "Problems/1554. Strings Differ by One Character.md",
-    "Utils/Rolling Hash.md",
-    "Problems/1627. Graph Connectivity With Threshold.md",
-    "Problems/785. Is Graph Bipartite?.md",
-    "Problems/44. Wildcard Matching.md",
-    "Problems/352. Data Stream as Disjoint Intervals.md",
-    "Utils/Design.md",
-    "Problems/302. Smallest Rectangle Enclosing Black Pixels.md",
-    "Problems/366. Find Leaves of Binary Tree.md",
-    "Problems/827. Making A Large Island.md"
+    "Problems/1231. Divide Chocolate.md",
+    "Problems/1168. Optimize Water Distribution in a Village.md",
+    "Problems/1201. Ugly Number III.md",
+    "Problems/818. Race Car.md",
+    "Problems/407. Trapping Rain Water II.md",
+    "Problems/425. Word Squares.md",
+    "Problems/789. Escape The Ghosts.md",
+    "Problems/489. Robot Room Cleaner.md",
+    "Problems/1135. Connecting Cities With Minimum Cost.md",
+    "Problems/1597. Build Binary Expression Tree From Infix Expression.md"
   ]
 }
