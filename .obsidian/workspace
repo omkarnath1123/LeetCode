@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/269. Alien Dictionary.md",
+            "file": "Problems/32. Longest Valid Parentheses.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/269. Alien Dictionary.md",
+                "file": "Problems/32. Longest Valid Parentheses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ece217c15dc98025",
   "lastOpenFiles": [
-    "Problems/269. Alien Dictionary.md",
-    "Problems/285. Inorder Successor in BST.md",
-    "Problems/277. Find the Celebrity.md",
-    "Problems/308. Range Sum Query 2D - Mutable.md",
-    "Utils/BInary Indexed Tree.md",
-    "Utils/Topological-Sort.md",
-    "Problems/323. Number of Connected Components in an Undirected Graph.md",
-    "Problems/2096. Step-By-Step Directions From a Binary Tree Node to Another.md",
-    "Problems/490. The Maze.md",
-    "Problems/582. Kill Process.md"
+    "Problems/32. Longest Valid Parentheses.md",
+    "Problems/1834. Single-Threaded CPU.md",
+    "Problems/528. Random Pick with Weight.md",
+    "Problems/179. Largest Number.md",
+    "Problems/294. Flip Game II.md",
+    "Problems/1218. Longest Arithmetic Subsequence of Given Difference.md",
+    "Problems/340. Longest Substring with At Most K Distinct Characters.md",
+    "Problems/499. The Maze III.md",
+    "Problems/505. The Maze II.md",
+    "Problems/777. Swap Adjacent in LR String.md"
   ]
 }
