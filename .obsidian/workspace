@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/1864. Minimum Number of Swaps to Make the Binary String Alternating.md",
+            "file": "Problems/306. Additive Number.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/1864. Minimum Number of Swaps to Make the Binary String Alternating.md",
+                "file": "Problems/306. Additive Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ece217c15dc98025",
   "lastOpenFiles": [
-    "Problems/1864. Minimum Number of Swaps to Make the Binary String Alternating.md",
-    "Problems/1230. Toss Strange Coins.md",
-    "Problems/1272. Remove Interval.md",
-    "Problems/633. Sum of Square Numbers.md",
-    "Problems/694. Number of Distinct Islands.md",
-    "Problems/1593. Split a String Into the Max Number of Unique Substrings.md",
-    "Problems/360. Sort Transformed Array.md",
-    "Problems/370. Range Addition.md",
-    "Problems/286. Walls and Gates.md",
-    "Utils/Array.md"
+    "Problems/306. Additive Number.md",
+    "Problems/1993. Operations on Tree.md",
+    "Problems/2036. Maximum Alternating Subarray Sum.md",
+    "Problems/622. Design Circular Queue.md",
+    "Utils/Queue.md",
+    "Problems/651. 4 Keys Keyboard.md",
+    "Problems/2063. Vowels of All Substrings.md",
+    "Problems/2086. Minimum Number of Buckets Required to Collect Rainwater from Houses.md",
+    "Problems/1062. Longest Repeating Substring.md",
+    "Problems/1066. Campus Bikes II.md"
   ]
 }
