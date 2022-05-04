@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "38b6802352a58540",
+        "id": "500ba2be270b3ea9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/12. Integer to Roman.md",
+            "file": "Problems/86. Partition List.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/12. Integer to Roman.md",
+                "file": "Problems/86. Partition List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "38b6802352a58540",
+  "active": "500ba2be270b3ea9",
   "lastOpenFiles": [
-    "Problems/12. Integer to Roman.md",
-    "Problems/2023. Number of Pairs of Strings With Concatenation Equal to Target.md",
-    "Problems/2166. Design Bitset.md",
-    "Problems/2237. Count Positions on Street With Required Brightness.md",
-    "Problems/1166. Design File System.md",
-    "Problems/926. Flip String to Monotone Increasing.md",
-    "Problems/895. Maximum Frequency Stack.md",
-    "Problems/220. Contains Duplicate III.md",
-    "Problems/2021. Brightest Position on Street.md",
-    "Problems/335. Self Crossing.md"
+    "Problems/86. Partition List.md",
+    "Problems/1940. Longest Common Subsequence Between Sorted Arrays.md",
+    "Problems/1975. Maximum Matrix Sum.md",
+    "Problems/1167. Minimum Cost to Connect Sticks.md",
+    "Problems/1214. Two Sum BSTs.md",
+    "Problems/311. Sparse Matrix Multiplication.md",
+    "Problems/339. Nested List Weight Sum.md",
+    "Problems/2260. Minimum Consecutive Cards to Pick Up.md",
+    "Problems/2244. Minimum Rounds to Complete All Tasks.md",
+    "Problems/1721. Swapping Nodes in a Linked List.md"
   ]
 }
