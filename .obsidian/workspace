@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/86. Partition List.md",
+            "file": "Problems/225. Implement Stack using Queues.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/86. Partition List.md",
+                "file": "Problems/225. Implement Stack using Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "500ba2be270b3ea9",
   "lastOpenFiles": [
-    "Problems/86. Partition List.md",
-    "Problems/1940. Longest Common Subsequence Between Sorted Arrays.md",
-    "Problems/1975. Maximum Matrix Sum.md",
-    "Problems/1167. Minimum Cost to Connect Sticks.md",
-    "Problems/1214. Two Sum BSTs.md",
-    "Problems/311. Sparse Matrix Multiplication.md",
-    "Problems/339. Nested List Weight Sum.md",
-    "Problems/2260. Minimum Consecutive Cards to Pick Up.md",
-    "Problems/2244. Minimum Rounds to Complete All Tasks.md",
-    "Problems/1721. Swapping Nodes in a Linked List.md"
+    "Problems/225. Implement Stack using Queues.md",
+    "Problems/426. Convert Binary Search Tree to Sorted Doubly Linked List.md",
+    "Problems/968. Binary Tree Cameras.md",
+    "Problems/2139. Minimum Moves to Reach Target Score.md",
+    "Problems/2214. Minimum Health to Beat Game.md",
+    "Problems/1836. Remove Duplicates From an Unsorted Linked List.md",
+    "Problems/1833. Maximum Ice Cream Bars.md",
+    "Problems/945. Minimum Increment to Make Array Unique.md",
+    "Problems/624. Maximum Distance in Arrays.md",
+    "Problems/1858. Longest Word With All Prefixes.md"
   ]
 }
