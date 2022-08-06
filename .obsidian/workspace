@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/225. Implement Stack using Queues.md",
+            "file": "Problems/12. Integer to Roman.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/225. Implement Stack using Queues.md",
+                "file": "Problems/12. Integer to Roman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "500ba2be270b3ea9",
   "lastOpenFiles": [
+    "Problems/12. Integer to Roman.md",
     "Problems/225. Implement Stack using Queues.md",
     "Problems/426. Convert Binary Search Tree to Sorted Doubly Linked List.md",
     "Problems/968. Binary Tree Cameras.md",
@@ -97,7 +98,6 @@
     "Problems/1836. Remove Duplicates From an Unsorted Linked List.md",
     "Problems/1833. Maximum Ice Cream Bars.md",
     "Problems/945. Minimum Increment to Make Array Unique.md",
-    "Problems/624. Maximum Distance in Arrays.md",
-    "Problems/1858. Longest Word With All Prefixes.md"
+    "Problems/624. Maximum Distance in Arrays.md"
   ]
 }
