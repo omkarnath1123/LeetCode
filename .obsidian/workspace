@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/12. Integer to Roman.md",
+            "file": "Problems/73. Set Matrix Zeroes.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Comparator",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/12. Integer to Roman.md",
+                "file": "Problems/73. Set Matrix Zeroes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "500ba2be270b3ea9",
+  "active": "fc96cee2123e6ff1",
   "lastOpenFiles": [
-    "Problems/12. Integer to Roman.md",
-    "Problems/225. Implement Stack using Queues.md",
-    "Problems/426. Convert Binary Search Tree to Sorted Doubly Linked List.md",
-    "Problems/968. Binary Tree Cameras.md",
-    "Problems/2139. Minimum Moves to Reach Target Score.md",
-    "Problems/2214. Minimum Health to Beat Game.md",
-    "Problems/1836. Remove Duplicates From an Unsorted Linked List.md",
-    "Problems/1833. Maximum Ice Cream Bars.md",
-    "Problems/945. Minimum Increment to Make Array Unique.md",
-    "Problems/624. Maximum Distance in Arrays.md"
+    "Problems/1981. Minimize the Difference Between Target and Chosen Elements.md",
+    "Problems/1905. Count Sub Islands.md",
+    "Problems/1785. Minimum Elements to Add to Form a Given Sum.md",
+    "Problems/2015. Average Height of Buildings in Each Segment.md",
+    "Problems/737. Sentence Similarity II.md",
+    "Utils/Union-Find.md",
+    "Problems/1090. Largest Values From Labels.md",
+    "Problems/1328. Break a Palindrome.md",
+    "Problems/1930. Unique Length-3 Palindromic Subsequences.md",
+    "Problems/152. Maximum Product Subarray.md"
   ]
 }
