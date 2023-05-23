@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "af06f8725ce651b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b1632702e8074de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "500ba2be270b3ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/73. Set Matrix Zeroes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38722da585644f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/2001. Number of Pairs of Interchangeable Rectangles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22d92ac8c1b8917e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/1029. Two City Scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "673eb3cc3a8f9b7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/718. Maximum Length of Repeated Subarray.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23c26646ef6dbef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/416. Partition Equal Subset Sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9882b0cb85bb4f59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/322. Coin Change.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27609d026297cb8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/238. Product of Array Except Self.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3bac9c92d9119ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/778. Swim in Rising Water.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ec7a31f1aef96f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/2587. Rearrange Array to Maximize Prefix Score.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbaeb022a56b41cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "93d347bc8e1d6d59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc96cee2123e6ff1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75ec0511bc074e12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "718",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28996de615100a6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313
+  },
+  "right": {
+    "id": "0125c726741a7eeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ce14531fc86dee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1832791ad429863",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Problems/778. Swim in Rising Water.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "fc96cee2123e6ff1",
+  "lastOpenFiles": [
+    "Problems/238. Product of Array Except Self.md",
+    "Problems/778. Swim in Rising Water.md",
+    "Problems/322. Coin Change.md",
+    "Problems/416. Partition Equal Subset Sum.md",
+    "Problems/718. Maximum Length of Repeated Subarray.md",
+    "Problems/1029. Two City Scheduling.md",
+    "Problems/73. Set Matrix Zeroes.md",
+    "Problems/731. My Calendar II.md",
+    "Problems/2125. Number of Laser Beams in a Bank.md",
+    "Problems/2587. Rearrange Array to Maximize Prefix Score.md",
+    "1029.md",
+    "Problems/32. Longest Valid Parentheses.md",
+    "Problems/2353. Design a Food Rating System.md",
+    "Problems/2001. Number of Pairs of Interchangeable Rectangles.md",
+    "Problems/1981. Minimize the Difference Between Target and Chosen Elements.md",
+    "Problems/1905. Count Sub Islands.md",
+    "Problems/1785. Minimum Elements to Add to Form a Given Sum.md",
+    "Problems/2015. Average Height of Buildings in Each Segment.md",
+    "Problems/737. Sentence Similarity II.md",
+    "Utils/Union-Find.md"
+  ]
+}
