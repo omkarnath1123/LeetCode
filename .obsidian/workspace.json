@@ -25,14 +25,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "47. Permutations II.md",
+                "file": "Problems/240. Search a 2D Matrix II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07c40573688da637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/74. Search a 2D Matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "871f52fb63ea51ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/1750. Minimum Length of String After Deleting Similar Ends.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccfca42febf297d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/442. Find All Duplicates in an Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cdee4e7a10c5dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/2684. Maximum Number of Moves in a Grid.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -61,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "718",
+                "query": "442",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "47. Permutations II.md",
+                "file": "Problems/2684. Maximum Number of Moves in a Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,8 +173,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9308f0830ea5a646",
+  "active": "fc96cee2123e6ff1",
   "lastOpenFiles": [
+    "Problems/442. Find All Duplicates in an Array.md",
+    "Problems/2684. Maximum Number of Moves in a Grid.md",
+    "Problems/1750. Minimum Length of String After Deleting Similar Ends.md",
+    "Problems/74. Search a 2D Matrix.md",
+    "Problems/240. Search a 2D Matrix II.md",
     "Problems/44. Wildcard Matching.md",
     "47. Permutations II.md",
     "Problems/2221. Find Triangular Sum of an Array.md",
@@ -147,11 +200,6 @@
     "Problems/2125. Number of Laser Beams in a Bank.md",
     "1029.md",
     "Problems/32. Longest Valid Parentheses.md",
-    "Problems/2353. Design a Food Rating System.md",
-    "Problems/2001. Number of Pairs of Interchangeable Rectangles.md",
-    "Problems/1981. Minimize the Difference Between Target and Chosen Elements.md",
-    "Problems/1905. Count Sub Islands.md",
-    "Problems/1785. Minimum Elements to Add to Form a Given Sum.md",
-    "Problems/2015. Average Height of Buildings in Each Segment.md"
+    "Problems/2353. Design a Food Rating System.md"
   ]
 }
