@@ -8,79 +8,259 @@
         "type": "tabs",
         "children": [
           {
-            "id": "898c1a01046cdc53",
+            "id": "1a0e8ae6c67ecc13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/44. Wildcard Matching.md",
+                "file": "300. Longest Increasing Subsequence.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9308f0830ea5a646",
+            "id": "b832af5233d596f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/240. Search a 2D Matrix II.md",
+                "file": "Problems/462. Minimum Moves to Equal Array Elements II.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "07c40573688da637",
+            "id": "9a2ebae1831adf3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/74. Search a 2D Matrix.md",
+                "file": "Problems/515. Find Largest Value in Each Tree Row.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "871f52fb63ea51ba",
+            "id": "74bbcd922bbb0b89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/1750. Minimum Length of String After Deleting Similar Ends.md",
+                "file": "Problems/525. Contiguous Array.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ccfca42febf297d0",
+            "id": "4ba4d4858c87984c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/442. Find All Duplicates in an Array.md",
+                "file": "Problems/698. Partition to K Equal Sum Subsets.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7cdee4e7a10c5dbe",
+            "id": "48d5dd549fe80e0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/2684. Maximum Number of Moves in a Grid.md",
+                "file": "Problems/886. Possible Bipartition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f75f05264bcaf21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/900. RLE Iterator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af35fbfb365fc0f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/997. Find the Town Judge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c621642597a7a2e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/1144. Decrease Elements To Make Array Zigzag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a710d012e2faa62f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/1423. Maximum Points You Can Obtain from Cards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c79c0a7143f71c48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/1624. Largest Substring Between Two Equal Characters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56ceddcc15bb4356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/1764. Form Array by Concatenating Subarrays of Another Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acea35c19183ee24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/1894. Find the Student that Will Replace the Chalk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b088aeae3e49cd4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/1971. Find if Path Exists in Graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e46a43b0737b3783",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/2144. Minimum Cost of Buying Candies With Discount.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08bea36a7540cd1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/2351. First Letter to Appear Twice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ceefae87fc2c311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/2485. Find the Pivot Integer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18025597e3037609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/2491. Divide Players Into Teams of Equal Skill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09672f94b4275ce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/2840. Check if Strings Can be Made Equal With Operations II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a69c2b0c986461a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/2874. Maximum Value of an Ordered Triplet II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8485af28c3924ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/2948. Make Lexicographically Smallest Array by Swapping Elements.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -109,7 +289,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "442",
+                "query": "Combination Sum II",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/2684. Maximum Number of Moves in a Grid.md",
+                "file": "Problems/2948. Make Lexicographically Smallest Array by Swapping Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,31 +355,31 @@
   },
   "active": "fc96cee2123e6ff1",
   "lastOpenFiles": [
-    "Problems/442. Find All Duplicates in an Array.md",
-    "Problems/2684. Maximum Number of Moves in a Grid.md",
-    "Problems/1750. Minimum Length of String After Deleting Similar Ends.md",
-    "Problems/74. Search a 2D Matrix.md",
-    "Problems/240. Search a 2D Matrix II.md",
-    "Problems/44. Wildcard Matching.md",
-    "47. Permutations II.md",
-    "Problems/2221. Find Triangular Sum of an Array.md",
-    "Utils/Array.md",
-    "Problems/12. Integer to Roman.md",
-    "Problems/114. Flatten Binary Tree to Linked List.md",
-    "Problems/2587. Rearrange Array to Maximize Prefix Score.md",
-    "Problems/199. Binary Tree Right Side View.md",
-    "Problems/567. Permutation in String.md",
-    "Problems/778. Swim in Rising Water.md",
-    "Problems/238. Product of Array Except Self.md",
-    "Problems/322. Coin Change.md",
-    "Problems/416. Partition Equal Subset Sum.md",
-    "Problems/718. Maximum Length of Repeated Subarray.md",
-    "Problems/1029. Two City Scheduling.md",
-    "Problems/73. Set Matrix Zeroes.md",
-    "Problems/731. My Calendar II.md",
-    "Problems/2125. Number of Laser Beams in a Bank.md",
-    "1029.md",
-    "Problems/32. Longest Valid Parentheses.md",
-    "Problems/2353. Design a Food Rating System.md"
+    "Problems/2874. Maximum Value of an Ordered Triplet II.md",
+    "Problems/2948. Make Lexicographically Smallest Array by Swapping Elements.md",
+    "Problems/2840. Check if Strings Can be Made Equal With Operations II.md",
+    "Problems/2491. Divide Players Into Teams of Equal Skill.md",
+    "Problems/2485. Find the Pivot Integer.md",
+    "Problems/2351. First Letter to Appear Twice.md",
+    "Problems/2144. Minimum Cost of Buying Candies With Discount.md",
+    "Problems/1971. Find if Path Exists in Graph.md",
+    "Problems/1894. Find the Student that Will Replace the Chalk.md",
+    "Problems/1764. Form Array by Concatenating Subarrays of Another Array.md",
+    "Problems/1624. Largest Substring Between Two Equal Characters.md",
+    "Problems/1423. Maximum Points You Can Obtain from Cards.md",
+    "300. Longest Increasing Subsequence.md",
+    "Problems/1144. Decrease Elements To Make Array Zigzag.md",
+    "Problems/997. Find the Town Judge.md",
+    "Problems/900. RLE Iterator.md",
+    "Problems/886. Possible Bipartition.md",
+    "Problems/698. Partition to K Equal Sum Subsets.md",
+    "Problems/525. Contiguous Array.md",
+    "Problems/515. Find Largest Value in Each Tree Row.md",
+    "Problems/462. Minimum Moves to Equal Array Elements II.md",
+    "Problems/104. Maximum Depth of Binary Tree.md",
+    "Utils/Dynamic Programming.md",
+    "Problems/47. Permutations II.md",
+    "Problems/206. Reverse Linked List.md",
+    "Problems/40. Combination Sum II.md"
   ]
 }
