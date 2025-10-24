@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="160">
+  <style>.s{font:13px sans-serif;fill:#222}.pile{fill:#fefcbf;stroke:#d69e2e}</style>
+  <text x="10" y="18" class="s">LIS intuition: patience piles</text>
+  <g transform="translate(20,40)">
+    <rect x="0" y="0" width="30" height="40" class="pile"/><rect x="40" y="0" width="30" height="70" class="pile"/><rect x="80" y="0" width="30" height="50" class="pile"/><rect x="120" y="0" width="30" height="30" class="pile"/>
+    <text x="10" y="100" class="s">Length = number of piles; use binary search for O(n log n)</text>
+  </g>
+</svg>
+

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200">
+  <style>.s{font:13px sans-serif;fill:#222}.cell{fill:#fff;stroke:#cbd5e1}</style>
+  <text x="10" y="18" class="s">Matrix / Grid DP (move right/down)</text>
+  <g transform="translate(40,40)">
+    <rect x="0" y="0" width="40" height="40" class="cell"/><rect x="40" y="0" width="40" height="40" class="cell"/><rect x="80" y="0" width="40" height="40" class="cell"/>
+    <rect x="0" y="40" width="40" height="40" class="cell"/><rect x="40" y="40" width="40" height="40" class="cell"/><rect x="80" y="40" width="40" height="40" class="cell"/>
+    <text x="10" y="140" class="s">dp[i][j] = grid[i][j] + min(dp[i-1][j], dp[i][j-1])</text>
+  </g>
+</svg>
+

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200">
+  <style>.s{font:13px sans-serif;fill:#222}.cell{fill:#fff;stroke:#cbd5e1}.diag{fill:#c6f6d5}</style>
+  <text x="10" y="18" class="s">Palindrome substring DP (table symmetric)</text>
+  <g transform="translate(40,30)">
+    <!-- upper triangular highlighted -->
+    <rect x="0" y="0" width="40" height="40" class="diag"/><rect x="40" y="0" width="40" height="40" class="cell"/><rect x="80" y="0" width="40" height="40" class="cell"/>
+    <rect x="0" y="40" width="40" height="40" class="cell"/><rect x="40" y="40" width="40" height="40" class="diag"/><rect x="80" y="40" width="40" height="40" class="cell"/>
+    <rect x="0" y="80" width="40" height="40" class="cell"/><rect x="40" y="80" width="40" height="40" class="cell"/><rect x="80" y="80" width="40" height="40" class="diag"/>
+    <text x="10" y="150" class="s">dp[i][j] = (s[i]==s[j]) & (j-i<2 || dp[i+1][j-1])</text>
+  </g>
+</svg>
+

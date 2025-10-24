@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="180">
+  <style>.s{font:13px sans-serif;fill:#222}.seg{fill:#e6fffa;stroke:#2c7a7b}</style>
+  <text x="10" y="18" class="s">Interval DP: solve for all lengths, expand interval</text>
+  <g transform="translate(20,40)">
+    <rect x="0" y="0" width="80" height="30" class="seg"/><text x="40" y="20" class="s" text-anchor="middle">len=1</text>
+    <rect x="100" y="0" width="120" height="30" class="seg"/><text x="160" y="20" class="s" text-anchor="middle">len=2</text>
+    <rect x="240" y="0" width="160" height="30" class="seg"/><text x="320" y="20" class="s" text-anchor="middle">len=3...</text>
+    <text x="10" y="100" class="s">Typical: dp[i][j] = min/max over k between i..j of combine(dp[i][k], dp[k+1][j])</text>
+  </g>
+</svg>
+

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220">
+  <style>.s{font:13px sans-serif;fill:#222}.cell{fill:#fff;stroke:#cbd5e1}.diag{stroke:#2b6cb0;stroke-width:1.5}</style>
+  <text x="10" y="18" class="s">LCS DP grid (i vs j)</text>
+  <g transform="translate(40,30)">
+    <!-- grid 5x5 -->
+    <g>
+      <rect x="0" y="0" width="40" height="40" class="cell"/><rect x="40" y="0" width="40" height="40" class="cell"/><rect x="80" y="0" width="40" height="40" class="cell"/><rect x="120" y="0" width="40" height="40" class="cell"/><rect x="160" y="0" width="40" height="40" class="cell"/>
+      <rect x="0" y="40" width="40" height="40" class="cell"/><rect x="40" y="40" width="40" height="40" class="cell"/><rect x="80" y="40" width="40" height="40" class="cell"/><rect x="120" y="40" width="40" height="40" class="cell"/><rect x="160" y="40" width="40" height="40" class="cell"/>
+      <rect x="0" y="80" width="40" height="40" class="cell"/><rect x="40" y="80" width="40" height="40" class="cell"/><rect x="80" y="80" width="40" height="40" class="cell"/><rect x="120" y="80" width="40" height="40" class="cell"/><rect x="160" y="80" width="40" height="40" class="cell"/>
+    </g>
+    <text x="10" y="150" class="s">dp[i][j] = dp[i-1][j-1] +1 if match else max(dp[i-1][j], dp[i][j-1])</text>
+  </g>
+</svg>
+

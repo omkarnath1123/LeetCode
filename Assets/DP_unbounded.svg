@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="160">
+  <style>.s{font:13px sans-serif;fill:#222}.box{fill:#f7fafc;stroke:#cbd5e1}</style>
+  <text x="10" y="18" class="s">Unbounded knapsack / Coin change</text>
+  <g transform="translate(20,30)">
+    <rect x="0" y="0" width="120" height="40" class="box"/><text x="60" y="25" text-anchor="middle" class="s">dp[0]=0</text>
+    <rect x="150" y="0" width="120" height="40" class="box"/><text x="210" y="25" text-anchor="middle" class="s">for coin in coins:</text>
+    <rect x="300" y="0" width="120" height="40" class="box"/><text x="360" y="25" text-anchor="middle" class="s">for x from coin..target: dp[x]+=dp[x-coin]</text>
+  </g>
+</svg>
+
