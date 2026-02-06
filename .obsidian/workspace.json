@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "762b59228b66196b",
+        "id": "c4d6f012793be9f7",
         "type": "tabs",
         "children": [
           {
-            "id": "b832af5233d596f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/462. Minimum Moves to Equal Array Elements II.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "462. Minimum Moves to Equal Array Elements II"
-            }
-          },
-          {
-            "id": "dcada226ed9e0309",
+            "id": "1a3b8ceb044a0bc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,105 +22,21 @@
             }
           },
           {
-            "id": "eecd599325d9edec",
+            "id": "17863e038fa81b87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/1. Two Sum.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Two Sum"
-            }
-          },
-          {
-            "id": "420b203d37d84163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/383. Ransom Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "383. Ransom Note"
-            }
-          },
-          {
-            "id": "59e3872813122df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/125. Valid Palindrome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "125. Valid Palindrome"
-            }
-          },
-          {
-            "id": "5a81b928aa7df0b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/2531. Make Number of Distinct Characters Equal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2531. Make Number of Distinct Characters Equal"
-            }
-          },
-          {
-            "id": "aee1c983f8cc6715",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/498. Diagonal Traverse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "498. Diagonal Traverse"
-            }
-          },
-          {
-            "id": "01d91a5a8791cac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/342. Power of Four.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "342. Power of Four"
-            }
-          },
-          {
-            "id": "f10408d5a254d943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/383. Ransom Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "383. Ransom Note"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1654",
+                "query": "1765",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/342. Power of Four.md",
+                "file": "Problems/763. Partition Labels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 342. Power of Four"
+              "title": "Backlinks for 763. Partition Labels"
             }
           }
         ]
@@ -229,6 +131,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -236,33 +139,48 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fc96cee2123e6ff1",
+  "active": "17863e038fa81b87",
   "lastOpenFiles": [
-    "Problems/498. Diagonal Traverse.md",
-    "Problems/342. Power of Four.md",
-    "Problems/1654. Minimum Jumps to Reach Home.md",
-    "Problems/383. Ransom Note.md",
-    "Problems/2379. Minimum Recolors to Get K Consecutive Black Blocks.md",
-    "Problems/2531. Make Number of Distinct Characters Equal.md",
-    "Problems/125. Valid Palindrome.md",
     "Problems/1. Two Sum.md",
-    "Problems/129. Sum Root to Leaf Numbers.md",
-    "Problems/462. Minimum Moves to Equal Array Elements II.md",
-    "Problems/300. Longest Increasing Subsequence.md",
-    "Problems/2874. Maximum Value of an Ordered Triplet II.md",
-    "Problems/2948. Make Lexicographically Smallest Array by Swapping Elements.md",
-    "Problems/2840. Check if Strings Can be Made Equal With Operations II.md",
-    "Problems/2491. Divide Players Into Teams of Equal Skill.md",
-    "Problems/2485. Find the Pivot Integer.md",
-    "Problems/2351. First Letter to Appear Twice.md",
-    "Problems/2144. Minimum Cost of Buying Candies With Discount.md",
-    "Problems/1971. Find if Path Exists in Graph.md",
-    "Problems/1894. Find the Student that Will Replace the Chalk.md",
-    "Problems/1764. Form Array by Concatenating Subarrays of Another Array.md",
-    "Problems/1624. Largest Substring Between Two Equal Characters.md",
-    "Problems/1423. Maximum Points You Can Obtain from Cards.md",
-    "Problems/1144. Decrease Elements To Make Array Zigzag.md",
-    "Problems/997. Find the Town Judge.md",
-    "Problems/900. RLE Iterator.md"
+    "Untitled.md",
+    "Concurrency/1115. Print FooBar Alternately.md",
+    "Concurrency/1114. Print in Order.md",
+    "Concurrency",
+    "Problems/1765. Map of Highest Peak.md",
+    "Problems/542. 01 Matrix.md",
+    "Problems/885. Spiral Matrix III.md",
+    "Problems/3541. Find Most Frequent Vowel and Consonant.md",
+    "Problems/778. Swim in Rising Water 1.md",
+    "Assets/Pasted image 20260206105236.png",
+    "Pasted image 20260206105159.png",
+    "Assets/Pasted image 20260206105154.png",
+    "Pasted image 20260206105151.png",
+    "Problems/2011. Final Value of Variable After Performing Operations.md",
+    "Problems/2462. Total Cost to Hire K Workers.md",
+    "Problems/1437. Check If All 1's Are at Least Length K Places Away.md",
+    "Summary.base",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Problems/1518. Water Bottles.md",
+    "Problems/1717. Maximum Score From Removing Substrings.md",
+    "Problems/1394. Find Lucky Integer in an Array.md",
+    "Problems/865. Smallest Subtree with all the Deepest Nodes.md",
+    "Utils/Dynamic Programming 1.md",
+    "README.md",
+    "square-image.jpg",
+    "New/2326. Spiral Matrix IV.md",
+    "Problems/3461. Check If Digits Are Equal in String After Operations I.md",
+    "Problems/3218. Minimum Cost for Cutting Cake I.md",
+    "Problems/3085. Minimum Deletions to Make String K-Special.md",
+    "Problems/2333. Minimum Sum of Squared Difference.md",
+    "Problems/2326. Spiral Matrix IV.md",
+    "Problems/1742. Maximum Number of Balls in a Box.md",
+    "Problems/1598. Crawler Log Folder.md",
+    "New",
+    "Assets/DP_bitmask.svg",
+    "Assets/DP_interval.svg",
+    "Assets/DP_matrix.svg",
+    "Assets/DP_palindrome.svg",
+    "Assets/DP_lis.svg"
   ]
 }

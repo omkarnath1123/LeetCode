@@ -40,7 +40,7 @@ A comprehensive collection of LeetCode problems organized by patterns, with deta
 - [Dijkstra's Algorithm](Utils/Dijkstra.md)
 
 ### 4. Dynamic Programming Patterns
-- [Dynamic Programming](Dynamic%20Programming.md)
+- [Dynamic Programming 1](Dynamic%20Programming%201.md)
 - [Bottom-Up Solution](Utils/Bottom-Up%20Solution.md)
 - [Top-Down Solution](Utils/Top-Down%20Solution.md)
 

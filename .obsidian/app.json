@@ -4,5 +4,6 @@
   "lineWrap": true,
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "promptDelete": false
 }
