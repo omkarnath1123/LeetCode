@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="190" viewBox="0 0 700 190">
+  <rect width="700" height="190" fill="#f7fafc"/>
+  <text x="20" y="30" font-size="20" font-family="Arial" fill="#1a202c">Graph Traversal (BFS/DFS)</text>
+  <line x1="130" y1="90" x2="240" y2="60" stroke="#4a5568"/>
+  <line x1="130" y1="90" x2="240" y2="120" stroke="#4a5568"/>
+  <line x1="240" y1="60" x2="360" y2="90" stroke="#4a5568"/>
+  <line x1="240" y1="120" x2="360" y2="90" stroke="#4a5568"/>
+  <line x1="360" y1="90" x2="500" y2="90" stroke="#4a5568"/>
+  <circle cx="130" cy="90" r="20" fill="#90cdf4"/><circle cx="240" cy="60" r="20" fill="#bee3f8"/>
+  <circle cx="240" cy="120" r="20" fill="#bee3f8"/><circle cx="360" cy="90" r="20" fill="#63b3ed"/>
+  <circle cx="500" cy="90" r="20" fill="#90cdf4"/>
+  <text x="116" y="95" font-size="14" font-family="Arial">S</text>
+  <text x="354" y="95" font-size="14" font-family="Arial">X</text>
+  <text x="20" y="165" font-size="15" font-family="Arial" fill="#2d3748">Idea: model nodes/edges, visit each state once with visited set</text>
+</svg>

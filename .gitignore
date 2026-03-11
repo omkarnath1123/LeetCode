@@ -11,6 +11,10 @@
 *.sqlite
 *.sqlite3
 
+# Env files
+.env
+.env.*
+
 # Package Files
 *.jar
 *.war
@@ -36,3 +40,20 @@ build/
 .classpath
 .project
 .settings/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Java crash logs
+hs_err_pid*
+replay_pid*
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.properties
+
+# Misc
+out/
+*.iml

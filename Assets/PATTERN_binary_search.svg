@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="180" viewBox="0 0 700 180">
+  <rect width="700" height="180" fill="#f7fafc"/>
+  <text x="20" y="30" font-size="20" font-family="Arial" fill="#1a202c">Binary Search on Answer</text>
+  <line x1="80" y1="90" x2="620" y2="90" stroke="#4a5568" stroke-width="3"/>
+  <circle cx="160" cy="90" r="8" fill="#2b6cb0"/><text x="145" y="115" font-size="14" font-family="Arial">low</text>
+  <circle cx="360" cy="90" r="8" fill="#e53e3e"/><text x="348" y="115" font-size="14" font-family="Arial">mid</text>
+  <circle cx="560" cy="90" r="8" fill="#2b6cb0"/><text x="547" y="115" font-size="14" font-family="Arial">high</text>
+  <text x="20" y="155" font-size="15" font-family="Arial" fill="#2d3748">Check(mid) decides which half keeps the answer</text>
+</svg>

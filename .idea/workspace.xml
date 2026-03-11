@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f20b2209-1b52-400d-ba8c-a13919c209e4" name="Changes" comment="new changes">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/app.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/graph.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/1765. Map of Highest Peak.md" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/1765. Map of Highest Peak.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/198. House Robber.md" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/198. House Robber.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/509. Fibonacci Number.md" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/509. Fibonacci Number.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/70. Climbing Stairs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/70. Climbing Stairs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/746. Min Cost Climbing Stairs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/746. Min Cost Climbing Stairs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/91. Decode Ways.md" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/91. Decode Ways.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summary.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/152. Maximum Product Subarray.md" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/152. Maximum Product Subarray.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/686. Repeated String Match.md" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/686. Repeated String Match.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +21,13 @@
     <persistenceIdMap>
       <entry key="_/Users/omkarnath/LeetCode" value="2dIgCX0Z0gcGkkCrexo0nDPkfYL" />
     </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="edit-panel" value="GPT-5 mini" />
+      <entry key="chat-panel" value="GPT-4o" />
+      <entry key="agent-panel" value="GPT-4o" />
+    </selectedModels>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
